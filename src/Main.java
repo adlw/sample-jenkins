@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("New dimesnions");
         Warehouse stock = new Warehouse();
+        System.out.println("Stock");
     }
 }
