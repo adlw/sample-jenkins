@@ -5,5 +5,6 @@ public class Main {
         System.out.println("New dimesnions");
         Warehouse stock = new Warehouse();
         System.out.println("Stock");
+        System.out.println("With Commit Tag");
     }
 }
